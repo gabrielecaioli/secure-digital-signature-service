@@ -1,0 +1,4 @@
+username,password_hash,salt,first_login,keys_deleted,privateKey,publicKey
+alice,417c1250a709edc10f2fe8d5dea2bd72c632696866d581c9bc5e09ead7291857,fcf7669417fb6141bb0070c7b39abfcb,0,1,,
+bob,348bb133f876d1791b3fe11bdab869ae7f5ab02fdc9766f48e9eaa76f5d6ca51,6c18fc2905115eedd49161b2acdc71da,1,0,,
+charlie,7525034d897cee77b74977e7a91a3ebcf41d43fc350e3c235d5581f5df575e6e,f67cd70d7b81075b2f52f03bf65b0e06,1,0,,
